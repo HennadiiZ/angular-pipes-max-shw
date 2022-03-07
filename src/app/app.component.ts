@@ -33,7 +33,7 @@ export class AppComponent {
     },
     {
       instanceType: '111',
-      name: '777',
+      name: '77',
       status: 'critical',
       started: new Date(15, 1, 2017)
     }
